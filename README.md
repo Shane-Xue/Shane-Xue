@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ![me](https://github-readme-stats.vercel.app/api?username=Shane-Xue&count_private=true)
 
-![langstats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-Xue&count_private=true)
+![langstats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-Xue&count_private=true&langs_count=10)
 
 Figures are from [this](https://github.com/anuraghazra/github-readme-stats) repo.
